@@ -1,6 +1,6 @@
 Detailed description of the following rendering techniques is in MSc thesis "Research and development of several rendering algorithms" which is available in Russian at http://www.cv.imm.uran.ru/labels/shaydurov-aleksey.
 # SurfaceDetailVariations
-Contains Parallax Occlusion Mapping technique extended with ollowing features:
+Contains Parallax Occlusion Mapping technique extended with following features:
 * reflections
 * hybrid texture coordinate gradient computation method
 * adaptive sample count selection
